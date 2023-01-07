@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\git\\unreal\\effectprac\\source\\effectprac\\effectpracgamemodebase.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\git\\unreal\\effectprac\\intermediate\\build\\win64\\effectpraceditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\git\\unreal\\effectprac\\intermediate\\build\\win64\\unrealeditor\\development\\effectprac\\definitions.effectprac.h",
+            "d:\\git\\unreal\\effectprac\\source\\effectprac\\effectpracgamemodebase.h",
+            "d:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "d:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "d:\\git\\unreal\\effectprac\\intermediate\\build\\win64\\unrealeditor\\inc\\effectprac\\effectpracgamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

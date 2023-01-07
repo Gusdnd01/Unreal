@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "EffectPrac",
+			"Path": "D:\\Git\\Unreal\\EffectPrac\\Source\\EffectPrac.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "EffectPracEditor",
+			"Path": "D:\\Git\\Unreal\\EffectPrac\\Source\\EffectPracEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

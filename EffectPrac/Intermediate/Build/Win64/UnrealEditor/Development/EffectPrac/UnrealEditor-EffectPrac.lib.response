@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-EffectPrac.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Git\Unreal\EffectPrac\Intermediate\Build\Win64\EffectPracEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Git\Unreal\EffectPrac\Intermediate\Build\Win64\UnrealEditor\Development\EffectPrac\EffectPrac.cpp.obj"
+"D:\Git\Unreal\EffectPrac\Intermediate\Build\Win64\UnrealEditor\Development\EffectPrac\EffectPracGameModeBase.cpp.obj"
+"D:\Git\Unreal\EffectPrac\Intermediate\Build\Win64\UnrealEditor\Development\EffectPrac\EffectPrac.init.gen.cpp.obj"
+"D:\Git\Unreal\EffectPrac\Intermediate\Build\Win64\UnrealEditor\Development\EffectPrac\EffectPracGameModeBase.gen.cpp.obj"
+"D:\Git\Unreal\EffectPrac\Intermediate\Build\Win64\UnrealEditor\Development\EffectPrac\Default.rc2.res"
+/OUT:"D:\Git\Unreal\EffectPrac\Intermediate\Build\Win64\UnrealEditor\Development\EffectPrac\UnrealEditor-EffectPrac.lib"

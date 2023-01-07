@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\git\\unreal\\effectprac\\intermediate\\build\\win64\\unrealeditor\\inc\\effectprac\\effectprac.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\git\\unreal\\effectprac\\intermediate\\build\\win64\\effectpraceditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\git\\unreal\\effectprac\\intermediate\\build\\win64\\unrealeditor\\development\\effectprac\\definitions.effectprac.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

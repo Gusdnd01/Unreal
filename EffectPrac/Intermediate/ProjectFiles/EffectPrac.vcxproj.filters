@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\EffectPrac.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\EffectPrac.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\EffectPracEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\EffectPrac">
+      <UniqueIdentifier>{92FC4934-F19B-3450-BEAD-1ED692BD7E4A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\EffectPrac\EffectPrac.Build.cs">
+      <Filter>Source\EffectPrac</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\EffectPrac\EffectPrac.cpp">
+      <Filter>Source\EffectPrac</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\EffectPrac\EffectPrac.h">
+      <Filter>Source\EffectPrac</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\EffectPrac\EffectPracGameModeBase.cpp">
+      <Filter>Source\EffectPrac</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\EffectPrac\EffectPracGameModeBase.h">
+      <Filter>Source\EffectPrac</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
